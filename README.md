@@ -95,28 +95,8 @@ JWT_SECRET=your_secret_key
 
 # 5. Run the Application
 
-Start Backend:
-
 ```
-npm start
-```
-
-Start Frontend:
-
-```
-cd client
-npm start
+npm run dev
 ```
 
 ---
-
-# 📌 Overview
-
-ExpenseFlow enables users to manage expenses in a structured and secure way. 
-It demonstrates full-stack development skills including authentication, API development, database schema design, middleware usage, and frontend-backend integration.
-
----
-
-# 📜 License
-
-This project is open-source and available under the MIT License.
