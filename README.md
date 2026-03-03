@@ -7,7 +7,7 @@ It is developed using the MERN stack and demonstrates complete frontend-backend 
 
 ---
 
-# 🚀 Features
+## 🚀 Features
 
 * User Registration & Login
 * JWT-based Authentication
@@ -22,15 +22,15 @@ It is developed using the MERN stack and demonstrates complete frontend-backend 
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-# Frontend
+### Frontend
 
 * React.js
 * Axios
 * CSS
 
-# Backend
+### Backend
 
 * Node.js
 * Express.js
@@ -41,7 +41,7 @@ It is developed using the MERN stack and demonstrates complete frontend-backend 
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```
 ExpenseFlow/
@@ -60,22 +60,22 @@ ExpenseFlow/
 
 ---
 
-# ⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 
-# 1. Clone the Repository
+### 1. Clone the Repository
 
 ```
 git clone https://github.com/your-username/ExpenseFlow.git
 cd ExpenseFlow
 ```
 
-# 2. Install Backend Dependencies
+### 2. Install Backend Dependencies
 
 ```
 npm install
 ```
 
-# 3. Install Frontend Dependencies
+### 3. Install Frontend Dependencies
 
 ```
 cd client
@@ -83,7 +83,7 @@ npm install
 cd ..
 ```
 
-# 4. Configure Environment Variables
+### 4. Configure Environment Variables
 
 Create a '.env' file in the root directory and add:
 
@@ -93,7 +93,7 @@ MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 ```
 
-# 5. Run the Application
+### 5. Run the Application
 
 ```
 npm run dev
